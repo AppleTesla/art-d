@@ -51,6 +51,16 @@ The following packages are required to run the code:
     - Build Settings
 	    - Select `Build for HoloLens (ARM)`
 
+## Testing (March 2023)
+
+ART-D was taken for a test flight in September of 2022 and March of 2023.
+
+![Jaron Schreiber testing ART-D on September 4, 2022](https://user-images.githubusercontent.com/22374768/228322867-42cb7cfe-ab74-424e-a018-81dae24a1b99.png)
+Jaron Schreiber testing ART-D on September 4, 2022
+
+![Jaron Schreiber taking ART-D for a test flight on March 5, 2023](https://user-images.githubusercontent.com/22374768/228322301-6931f255-e3a5-4144-bf84-be7192cab14b.png)
+Jaron Schreiber taking ART-D for a test flight on March 5, 2023
+
 ## Authors
 
 - Jaron Schreiber
